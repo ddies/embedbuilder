@@ -4,9 +4,9 @@ export default class Header extends React.PureComponent {
   render = () => (
     <header>
       <div id="back-to-home">
-        <a href="https://jxzper.github.io">&larr;</a>
+        <a href="https://ddies.github.io">&larr;</a>
       </div>
-      <div title="jxzper.github.io">jxzper.github.io</div>
+      <div title="ddies.github.io">jxzper.github.io</div>
     </header>
   );
 }
