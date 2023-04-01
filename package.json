@@ -1,7 +1,7 @@
 {
   "name": "embedbuilder",
   "version": "0.1.0",
-  "homepage": "https://viliebot.com",
+  "homepage": "https://ddies.github.io/embedbuilder/",
   "private": true,
   "dependencies": {
     "react": "^16.13.1",
